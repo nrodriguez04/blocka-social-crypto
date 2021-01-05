@@ -1,3 +1,15 @@
+#Blocka Crypto Currency Social Media v1
+Crypto currency X social media platform for trading, market research, learning, knowledge sharing. 
+As of 1/5/21
+* Designed Logo
+* implementing UI layout
+* starting page elements
+* created navigation bar UI (need to implement functionality)
+* Working on Application & Page Components
+* Overall layout of application work in progress
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
