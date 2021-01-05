@@ -1,0 +1,39 @@
+.navigation {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    background: #1a1a1d;
+    color: white;
+
+
+            .logo {
+                width: 65px;
+                height: 40px;
+                padding: 20px;
+            }
+        
+            ul {
+                justify-content: space-between;
+                list-style: none;
+                margin-right: auto;
+                margin-top: 35px;
+
+        
+                li {
+                    display: inline;
+                    padding: 20px;
+                }
+            }
+
+    .main__buttons {
+        padding: 20px;
+
+        
+        button {
+            margin: 10px;
+            margin-left: auto;
+            order: 2;
+        }
+    }
+}
