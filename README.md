@@ -1,6 +1,7 @@
-#Blocka Crypto Currency Social Media v1
+# Blocka Crypto Currency Social Media v1
 Crypto currency X social media platform for trading, market research, learning, knowledge sharing. 
-##As of 1/5/21
+
+## As of 1/5/21
 * Designed Logo
 * implementing UI layout
 * starting page elements
