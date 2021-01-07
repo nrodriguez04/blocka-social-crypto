@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'Noto Sans SC', sans-serif;
+    src: url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300&display=swap');
+}
+
+.marquee {
+    width: 100%;
+    background-color: rgb(36, 35, 35);
+    color: #446ef8;
+    text-transform: uppercase;
+    white-space: nowrap;
+    overflow: none;
+    padding-left: 10px;
+    margin-bottom: 35px;
+    margin-left: 0;
+    top: 0;
+    -webkit-box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.6); 
+    box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.6);
+}
+
+.marquee div {
+    height: 100%;
+    display: flex;
+    animation: scrolling 40s linear infinite;
+    font-size: 1.5rem;
+}
+
+@keyframes scrolling {
+    0% { transform: translateX(100vw); }
+    100% { transform: translateX(-180vw); }
+  }

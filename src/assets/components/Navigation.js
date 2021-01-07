@@ -15,7 +15,7 @@ class Navigation extends Component {
                         <li>Home</li>    
                         <li>Markets</li> 
                         <li>Creddit</li> 
-                        <li>Trade</li> 
+                        <li>Learn</li> 
                         <li>Finance</li> 
                     </ul>
     
